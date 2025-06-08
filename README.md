@@ -15,6 +15,8 @@ Author: Anna Hnatiuk
 - Visualization of training progress
 - Functions for single and batch inference
 
+Model was trained on 37000+ images containing rows of ukrainian handwritten text
+
 ## Dataset Structure
 
 - `lines/` — contains grayscale PNG images of handwritten text lines
