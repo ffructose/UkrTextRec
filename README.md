@@ -114,6 +114,7 @@ Avg WER: 0.2801
    - `lines.zip`
    - `METAFILE.tsv`
    - `alphabet.txt`
+(dataset with ukrainian handwritten text will soon be published for public use)
 2. Run the provided notebook or script step-by-step.
 3. Start training and evaluate the model.
 
@@ -125,7 +126,7 @@ If you use this project in your research or applications, please cite it as:
 author = {Anna Hnatiuk},
 title = {UkrTextRec: Ukrainian Handwritten Text Recognition using CRNN},
 year = {2025},
-url = {https://colab.research.google.com/drive/1NNWWvWyHYMICofXx0a66TEUjKQP9whPL}
+url = {https://colab.research.google.com/drive/1NNWWvWyHYMICofXx0a66TEUjKQP9whPL?usp=sharing}
 }
 
 
